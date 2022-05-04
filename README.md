@@ -14,6 +14,10 @@ Drawing on over 20 years of experience in advertising, media, big tech, FMCG, fi
 * Test automation and continuous integration/deployment (CI/CD)
 * Devops and Infrastructure as Code (IaC)
 
+![Amazon Web Services](/assets/img/tools/aws.png)
+![Terraform](/assets/img/tools/tf.png)
+![Shopify](/assets/img/tools/sh.png)
+
 ## Our clients
 
 We are proud to have contributed to significant projects for McKinsey & Company, Pizza Hut and Unilever.
