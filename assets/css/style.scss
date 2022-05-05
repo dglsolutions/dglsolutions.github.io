@@ -10,3 +10,17 @@ header h1, header p {
 footer {
   display: none;
 }
+
+@media screen and (max-width: 720px) {
+  section, header {
+    text-align: center;
+  }
+
+  section ul {
+    text-align: left;
+  }
+
+  section img {
+    width: 80px;
+  }
+}
