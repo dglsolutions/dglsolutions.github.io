@@ -28,5 +28,5 @@ We are proud to have contributed to significant projects for McKinsey & Company,
 
 ## Get in touch
 
-- Email: admin@dglsolutions.uk
-- LinkedIn: https://www.linkedin.com/company/dgl-solutions-uk
+- Email: [admin@dglsolutions.uk](mailto:admin@dglsolutions.uk)
+- LinkedIn: [https://www.linkedin.com/company/dgl-solutions-uk](https://www.linkedin.com/company/dgl-solutions-uk)
