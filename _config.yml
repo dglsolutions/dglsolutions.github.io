@@ -2,10 +2,4 @@ theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
 title: DGL Solutions
 description: UK-based technology and e-commerce consultancy
-
-# Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    measurement_id: "G-T7H7JKRWLY"
-    anonymize_ip: # true, false (default)
+google_analytics: G-T7H7JKRWLY
